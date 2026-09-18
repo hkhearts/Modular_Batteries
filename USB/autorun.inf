@@ -1,0 +1,5 @@
+[AutoRun]
+open=launch.bat
+icon=ModularBatteries.exe,0
+label=Modular Batteries AI Workspace
+action=Open Modular Batteries AI

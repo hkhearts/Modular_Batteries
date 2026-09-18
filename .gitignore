@@ -1,0 +1,21 @@
+# .NET / C#
+bin/
+obj/
+publish/
+*.user
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+Python/.venv/
+Python/venv/
+.env
+
+# Mojo / Modular
+.modular/
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db

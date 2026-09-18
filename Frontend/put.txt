@@ -1,0 +1,7 @@
+This is the frontend prompt.
+Where this folder needs to a have the things which i want to create like .exe file to make it like the desktop app which that there need to have the 4 plugins which i can select the models that are present in the local. This models can be installed in the opencode and then this ai model is used here. And those Model can be plugged in with the help of wire visual to plug in. 
+
+Give me this visualization and open a another window where i can put the prompt in it. This window i can able to put the prompt and slect the folder to make changes in the folder. I can analyse the folder to create the new app or alredy builded app changes and debugging.
+THis is the overall frontend this nedds to be connected with the orcestrated and the plugs to show the output like the chat tab in vs code. Create the custom window for this. 
+
+This should be the desktop application

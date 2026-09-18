@@ -1,0 +1,15 @@
+Access tanalyse this his Folder Make the Complete Project Prototype for this In like i have said in each and everyfile. Make the app only sung mojo and max for the build and deployment of that ai agents. Get the local agents from opencode. And Put the Frontend in C# desktop application for the windows, linux and mac platform independent and give me the compelte prototype. I will give the plan this is the
+
+Create a Modular Chatbot V1 desktop application using C#. The application will act as a visual workspace where locally installed AI models can be connected to different AI capabilities.
+
+The desktop application should contain four main modules: Planner, Coding, Reasoning, and Summarizer. An Orchestrator will manage the overall workflow by understanding the user's task, deciding which module is required, and routing the task to the selected AI model.
+
+AI models installed locally through OpenCode should be discoverable and selectable inside the C# application. Each module should have a model selector/dropdown that allows the user to choose which local AI model powers that component.
+
+The main feature should be a visual plug-in mechanism, where AI models can be represented as nodes/components and connected to modules using visible connection points, similar to a visual node-based system. Models should be easily replaceable or connected to different modules.
+
+The C# desktop application should communicate with the local AI models through a Python connector/API layer where required. The architecture should therefore be:
+
+C# Desktop App → Orchestrator → Module (Planner/Coding/Reasoning/Summarizer) → Python Connector → Local AI Model/OpenCode
+
+The prototype should focus on the desktop UI, modular architecture, model selection, visual connections, and communication with locally available AI models. The final application should be packaged as a Windows .exe desktop application.
